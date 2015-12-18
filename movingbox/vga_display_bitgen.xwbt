@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=X:\Documents\EC 311\movingbox\vga_display.ncd
+OUTFILE=X:\Documents\EC 311\movingbox\vga_display.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=X:\Documents\EC 311\movingbox
+LICENSE=ISE
+USER_INFO=174135685_174135686_210617260_121
